@@ -5,7 +5,7 @@
     "build": "node scripts/build.js"
   },
   "workspaces": [
-    "packages/**"
+    "packages/*"
   ],
   "name": "vue3-demo",
   "version": "1.0.0",
